@@ -32,10 +32,10 @@ public class Student {
 
     void displayMarks()
     {
-        System.out.printn(RE);
-        System.out.printn(SDA);
-        System.out.printn(SQAT);
-        System.out.printn(SEAM);
-        System.out.printn(FM);
+        System.out.println(RE);
+        System.out.println(SDA);
+        System.out.println(SQAT);
+        System.out.println(SEAM);
+        System.out.println(FM);
     }
 }
